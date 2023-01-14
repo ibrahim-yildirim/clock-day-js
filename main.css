@@ -1,0 +1,18 @@
+.text-orange{
+    color: #e98208;
+}
+
+#clock{
+    color: grey;
+    font-size: 120px;
+}
+
+#dayName{
+    color: grey;
+    font-size: 80px;
+}
+
+#name{
+    color: grey;
+    font-size: 80px;
+}
